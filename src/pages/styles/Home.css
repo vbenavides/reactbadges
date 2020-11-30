@@ -1,0 +1,30 @@
+.home__container {
+  background-color: #100f1c;
+	background-image: url(../../images/stars.svg);
+	height: 85vh;
+
+	color: white;
+
+	display: flex;
+	justify-content: space-around;
+  align-items: center;
+  box-sizing: border-box;
+}
+.home__img {
+	/* width: 600px; */
+}
+
+.Home .btn  {
+
+}
+
+.home__start {
+  width: 25%;
+  display: flexbox;
+}
+.home__start img {
+  width: 100%;
+}
+.home__img-container {
+  width: 50%;
+}
